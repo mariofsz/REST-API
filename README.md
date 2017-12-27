@@ -8,7 +8,7 @@ The database contains an users list. We can acces this list, read a specific use
 a new user and delete an user. Unfortunally, the PUT function isn't working properly, so
 we can't edit the user's data.
 
-To improve the application functionalities, Express, Mongoose and and BodyParse were used.
+To improve the application functionalities, Express, Mongoose and BodyParse were used.
 
 The project is based on a MongoDB server. There's a usersdata.js file in the models folder.
 This file is an interface where the main code and the database are connected. There's a 
